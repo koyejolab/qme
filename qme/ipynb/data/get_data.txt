@@ -1,0 +1,3 @@
+Adult and Default datasets are taken from UCI repository. (https://archive.ics.uci.edu/ml/datasets.php)
+
+CovType and SensIT (Vechicle) are taken from here: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html
